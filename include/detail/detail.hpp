@@ -1,12 +1,12 @@
 #pragma once
 
-//deps
-#include "../../deps/xjson/include/xjson.hpp"
-#include "../../deps/xlog/include/xlog.hpp"
-#include "../../deps/xnet/include/xnet.hpp"
-#include "../../deps/xtest/include/xtest.hpp"
-#include "../../deps/xutil/include/function_traits.hpp"
-#include "../../deps/xutil/include/make_index_sequence.hpp"
+//..
+#include "../../../xjson/include/xjson.hpp"
+#include "../../../xlog/include/xlog.hpp"
+#include "../../../xnet/include/xnet.hpp"
+#include "../../../xtest/include/xtest.hpp"
+#include "../../../xutil/include/function_traits.hpp"
+#include "../../../xutil/include/make_index_sequence.hpp"
 
 #include <exception>
 #include <string>
